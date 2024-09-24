@@ -1,0 +1,17 @@
+#This shows how to round a number to the nearest two decimals
+x = round(5.9876, 2)
+print (x)
+#This - represents the subtraction operation
+print (f"hello i am {2024-2008} years old")
+#This / represents the division operation
+print (f"hello i am {64/4} years old")
+#This * represents the multiplication operation
+print (f"hello i am {2*8} years old")
+#This + represents the addition operation
+print (f"hello i am {8+8} years old")
+#This ** represents the exponent operation
+print (f"hello i am {4**2} years old")
+#This % represents the modulus operation
+print (f"hello i am {67%17} years old")
+print ("{}-{}-{} {}:{} {}".format(2024, 9, 16, 9, 34, "pm"))
+print ("Hello "+"My "+"Name "+"Is "+"Julian")
