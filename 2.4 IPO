@@ -1,0 +1,19 @@
+1 - How many pizzas to order for a party. Assume everyone will eat two slices and each pizza has eight slices.
+Input - Two pizzas per person, Eight slices a pizza, Fifty Six People Attending a Party
+Processing - 56/8 * 2 or People attending / Slices per pizza * Slices per person
+Output - Pizzas needed which is 14
+
+2 - Determine the average serve speed of a tennis player’s last five serves.
+Input - All five speeds of the player's last five serves
+Processing - Speed of serve / Amounts of serve (5)
+Output - Average speed of a tennis player's last five serves
+
+3 - Checking-out groceries at the self-checkout
+Input - Prices and quantity of each item that is being bought 
+Processing - All of the prices are added up
+Output - Total price 
+
+4 - Your friend asks you to do their homework for them.
+Input - Your friend asks you to do their homework and gives you their homework
+Processing - You decide whether to do it or decline it
+Output - The homework completed or incompleted
